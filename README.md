@@ -59,8 +59,8 @@ Gira tutta nel browser: niente installazione, niente server, niente account. Si 
 ## Avvio
 
 ```bash
-git clone https://github.com/<utente>/<repo>.git
-cd <repo>
+git clone https://github.com/c64guyy/rcj-maze-configurator.git
+cd rcj-maze-configurator
 ```
 
 Poi apri `index.html` nel browser (doppio clic). Va bene qualsiasi browser moderno: Chrome, Edge, Firefox, Safari.
